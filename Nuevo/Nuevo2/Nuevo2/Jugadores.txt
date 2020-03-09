@@ -1,0 +1,3 @@
+Nombre: carlos Apellido: tevezPosicion: delanteroPiernaHabil: derecha Monto: 1000 Tipo: Jugador A
+Nombre: jeremias Apellido: sprinfield Posicion : central PiernaHabil: izq Valor: 375 Tipo: Jugador B
+Nombre:  õVphôz Apellido:  Posicion : $óz PiernaHabil: Åmpÿÿÿÿ³Xp¼Y¯Oxóz Valor: 625 Tipo: Jugador B
